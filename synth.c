@@ -1,6 +1,5 @@
 #define _USE_MATH_DEFINES
 #include <stdio.h>
-#include <stdlib.h>
 #include <math.h>
 #include <al.h>
 #include <alc.h>
